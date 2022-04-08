@@ -7,4 +7,5 @@
 - I am new to both Github and programming, so there may be flaws, but I would appreciate a warm welcome.
 I plan to create and post hobbies and those of my people.
 Best regards.
-Translation: DeepL
+
+-Translation: DeepL
