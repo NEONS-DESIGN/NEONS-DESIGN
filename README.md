@@ -9,7 +9,7 @@ Githubもプログラミングも初心者なので不備があるかもしれ�
 
 I might have some shortcomings as both a beginner in using Github and in programming, so I would appreciate it if you could kindly watch over with a warm eye. I plan to create and post about hobbies and family members. Thank you in advance for your support.
 
-Translation By: DeepL
+Translation By: ChatGPT
 
 - 触った事のある言語:
 c, java, html, js, css, php, sql, python, ruby
