@@ -7,9 +7,7 @@ Githubもプログラミングも初心者なので不備があるかもしれ�
 
 👋 Hi, I’m @NEONS-DESIGN
 
-I am new to both Github and programming, so there may be flaws, but I would appreciate a warm welcome.
-I plan to create and post hobbies and those of my people.
-Best regards.
+I might have some shortcomings as both a beginner in using Github and in programming, so I would appreciate it if you could kindly watch over with a warm eye. I plan to create and post about hobbies and family members. Thank you in advance for your support.
 
 Translation By: DeepL
 
