@@ -1,5 +1,5 @@
 ## About Me
-プログラマー志望の学生です。よろしくお願いします。
+一年目SEです。よろしくお願いします。
 
 ## Status
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=NEONS-DESIGN&count_private=true&show_icons=true&theme=react)
