@@ -6,4 +6,4 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NEONS-DESIGN&layout=compact&theme=react)
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,java,c,ae,pr,ps,ai)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,java,kotlin,c,ae,pr,ps)
